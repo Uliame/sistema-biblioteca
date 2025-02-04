@@ -1,0 +1,102 @@
+[
+    {
+        "IDAluno": "001",
+        "nomeAluno": "Thiago Uliame",
+        "temLivro": false,
+        "livrosEmprestados": []
+    },
+    {
+        "IDAluno": "002",
+        "nomeAluno": "Maria Fernanda Muniz",
+        "temLivro": true,
+        "livrosEmprestados": [
+            "A Fazenda dos Animais"
+        ]
+    },
+    {
+        "IDAluno": "003",
+        "nomeAluno": "Otto Maria",
+        "temLivro": false,
+        "livrosEmprestados": []
+    },
+    {
+        "IDAluno": "004",
+        "nomeAluno": "Jonas Broders",
+        "temLivro": false,
+        "livrosEmprestados": []
+    },
+    {
+        "IDAluno": "005",
+        "nomeAluno": "Caio Guilherme",
+        "temLivro": false,
+        "livrosEmprestados": []
+    },
+    {
+        "IDAluno": "006",
+        "nomeAluno": "Pedro Pantera",
+        "temLivro": false,
+        "livrosEmprestados": []
+    },
+    {
+        "IDAluno": "007",
+        "nomeAluno": "James Mosby",
+        "temLivro": false,
+        "livrosEmprestados": []
+    },
+    {
+        "IDAluno": "008",
+        "nomeAluno": "Adriano de Souza Lima",
+        "temLivro": false,
+        "livrosEmprestados": []
+    },
+    {
+        "IDAluno": "009",
+        "nomeAluno": "Rafael Longo",
+        "temLivro": false,
+        "livrosEmprestados": []
+    },
+    {
+        "IDAluno": "010",
+        "nomeAluno": "Sophia Querida",
+        "temLivro": false,
+        "livrosEmprestados": []
+    },
+    {
+        "IDAluno": "011",
+        "nomeAluno": "Gasai Yuno",
+        "temLivro": true,
+        "livrosEmprestados": [
+            "O Alienista",
+            "Livro do Desassossego",
+            "Vazio Perfeito",
+            "A Fazenda dos Animais"
+        ]
+    },
+    {
+        "IDAluno": "012",
+        "nomeAluno": "Monkey D. Luffy",
+        "temLivro": false,
+        "livrosEmprestados": []
+    },
+    {
+        "IDAluno": "013",
+        "nomeAluno": "Lula Molusco",
+        "temLivro": false,
+        "livrosEmprestados": []
+    },
+    {
+        "IDAluno": "014",
+        "nomeAluno": "Edu Ermano",
+        "temLivro": true,
+        "livrosEmprestados": [
+            "1984",
+            "A Fazenda dos Animais"
+        ]
+    },
+    {
+        "IDAluno": "015",
+        "nomeAluno": "Patrcia Abravanel",
+        "temLivro": false,
+        "livrosEmprestados": []
+    }
+]

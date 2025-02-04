@@ -1,0 +1,106 @@
+[
+    {
+        "IDLivro": "001",
+        "ISBN": "978-8535932966",
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "quantidade": 2,
+        "qtdEmprest": 1
+    },
+    {
+        "IDLivro": "002",
+        "ISBN": "978-8535933888",
+        "titulo": "A Fazenda dos Animais",
+        "autor": "George Orwell",
+        "quantidade": 3,
+        "qtdEmprest": 3
+    },
+    {
+        "IDLivro": "003",
+        "ISBN": "978-6588634172",
+        "titulo": "O Evangelho do Exorcista Vol.1 ― A Roda de Deus",
+        "autor": "Leonel Caldela",
+        "quantidade": 1,
+        "qtdEmprest": 0
+    },
+    {
+        "IDLivro": "004",
+        "ISBN": "978-6588634189",
+        "titulo": "O Evangelho do Exorcista Vol. 2 ― O Criador da Morte",
+        "autor": "Leonel Caldela",
+        "quantidade": 1,
+        "qtdEmprest": 0
+    },
+    {
+        "IDLivro": "005",
+        "ISBN": "978-6555605310",
+        "titulo": "Viúva de Ferro",
+        "autor": "Xiran Jay Zhao",
+        "quantidade": 4,
+        "qtdEmprest": 0
+    },
+    {
+        "IDLivro": "006",
+        "ISBN": "978-8568871232",
+        "titulo": "Vazio Perfeito",
+        "autor": "Liezi",
+        "quantidade": 2,
+        "qtdEmprest": 1
+    },
+    {
+        "IDLivro": "007",
+        "ISBN": "978-8594541901",
+        "titulo": "VHS: Verdadeiras Histórias de Sangue",
+        "autor": "Cesar Bravo",
+        "quantidade": 1,
+        "qtdEmprest": 0
+    },
+    {
+        "IDLivro": "008",
+        "ISBN": "978-6555982350",
+        "titulo": "1618",
+        "autor": "Cesar Bravo",
+        "quantidade": 1,
+        "qtdEmprest": 0
+    },
+    {
+        "IDLivro": "009",
+        "ISBN": "978-8555340659",
+        "titulo": "O Clube dos Oito",
+        "autor": "Daniel Handler",
+        "quantidade": 1,
+        "qtdEmprest": 0
+    },
+    {
+        "IDLivro": "009",
+        "ISBN": "978-6555982688",
+        "titulo": "O Rei de Amarelo",
+        "autor": "Robert W. Chambers",
+        "quantidade": 1,
+        "qtdEmprest": 0
+    },
+    {
+        "IDLivro": "010",
+        "ISBN": "978-8594318732",
+        "titulo": "A Dama de Espadas",
+        "autor": "Alexandre Pushkin",
+        "quantidade": 1,
+        "qtdEmprest": 0
+    },
+    {
+        "IDLivro": "011",
+        "ISBN": "978-8594318954",
+        "titulo": "Livro do Desassossego",
+        "autor": "Fernando Pessoa",
+        "quantidade": 2,
+        "qtdEmprest": 1
+    },
+    {
+        "IDLivro": "012",
+        "ISBN": "978-6580210084",
+        "titulo": "O Alienista",
+        "autor": "Machado de Assis",
+        "quantidade": 2,
+        "qtdEmprest": 1
+    }
+]
