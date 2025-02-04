@@ -30,10 +30,6 @@ Inclui arquivos json para salvar meus cadastros, coisa que eu nunca tinha feito 
 
 <br>
 
-```
-
-```
-
 ### Manual
 
 1. Para o cadastro de **Aluno**
