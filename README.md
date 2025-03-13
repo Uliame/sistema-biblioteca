@@ -23,20 +23,15 @@ Inclui arquivos json para salvar meus cadastros, coisa que eu nunca tinha feito 
 
 - POO
 
-## Próximos Passos 
-
-- Criar uma Interface Gráfica
-- Implementar Banco de Dados
-
 <br>
 
 ### Manual
 
 1. Para o cadastro de **Aluno**
-    - ID de 3 dígitos
+    - ID 
     - Nome
 2. Para o cadastro de **Livro**
-    - ID de 3 dígitos
+    - ID
     - ISBN-13
     - Título
     - Autor
